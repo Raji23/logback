@@ -1,0 +1,4 @@
+com\kgisl\logback\LogbackApplication.class
+com\kgisl\logback\TodoAspect.class
+com\kgisl\logback\IndexController.class
+com\kgisl\logback\SpringLoggingHelper.class
